@@ -1,0 +1,4 @@
+interface:
+  display_name: "Liyang Intensity Coach"
+  short_description: "Stage-style English drill coach"
+  default_prompt: "Draft or revise a Liyang-inspired English drill skill, prompt, or sample outputs."
